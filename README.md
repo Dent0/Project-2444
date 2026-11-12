@@ -303,6 +303,6 @@ flowchart LR
 | Дякин М. А. | библиотека промптов |
 
 <p align="center">
-  <img src="docs/img/poster-preview.jpg" width="420" alt="Постер проекта 2444"><br>
+  <img src="docs/img/poster-2444-qr.jpg" width="560" alt="Постер проекта 2444"><br>
   <sub>Постер проекта · <a href="https://cabinet.miem.hse.ru/project/2444">cabinet.miem.hse.ru/project/2444</a></sub>
 </p>
